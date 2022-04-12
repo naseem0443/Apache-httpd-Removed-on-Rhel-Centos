@@ -1,7 +1,7 @@
 # Apache-httpd-Removed-on-Rhel-Centos
 
 
-)Query and list all the Apache rpm packages
+)Query and list all the Apache rpm packages<br>
 rpm -qa "httpd"
 2)List the installed Apache packages.
 yum list installed "httpd*"
